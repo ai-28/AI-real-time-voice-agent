@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/41f45b30-2054-4b29-aa4c-d443cbc0abf9
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/spandan114/AI-realtime-voice-agent.git
+git clone https://github.com/ai-28/AI-realtime-voice-agent.git
 cd AI-realtime-voice-agent
 ```
 
