@@ -195,17 +195,3 @@ sequenceDiagram
 4. Push to branch: `git push origin feature-name`
 5. Submit a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Credit to libraries and services used
-- Community contributions
-
-## 📞 Contact
-
-Linkedin - [@Spandan Joshi](www.linkedin.com/in/spandan-joshi-39ba94171)
-Project Link: [https://github.com/spandan114/AI-realtime-voice-agent](https://github.com/spandan114/AI-realtime-voice-agent)
-
